@@ -1,4 +1,4 @@
-1Uzd - replit
+1Uzd - replit <br />
 2Uzd - replit #so? somali??????
 3Uzd - replit
 4Uzd - pycharm #scawy red lines and normal output
