@@ -1,3 +1,5 @@
+Koda darbspēja replit (web python vide) un pycharm (desktop python vide) <br />
+<br />
 1Uzd - replit <br />
 2Uzd - replit #so? somali?????? <br />
 3Uzd - replit <br />
